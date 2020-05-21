@@ -24,6 +24,7 @@ blockquote[xml|lang]{
 [epub|type~="z3998:postscript"]{
 	margin-top: 1em;
 	text-align: left;
+	text-indent: 0;
 }
 
 [epub|type~="z3998:verse"] p{
