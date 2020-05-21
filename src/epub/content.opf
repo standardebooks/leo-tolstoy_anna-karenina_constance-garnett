@@ -45,14 +45,15 @@
 		<meta property="authority" refines="#subject-5">LCSH</meta>
 		<meta property="term" refines="#subject-5">sh2008116767</meta>
 		<meta property="se:subject">Fiction</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">A socialite starts an affair with a cavalry officer, against a backdrop of wealthy Russian family life.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;Anna Karenina is certainly somewhat unhappy in her life, but presents a strong and vivacious character when called in to smooth over a major crack that’s appeared in her brother’s marriage. Unfortunately, the very visit designed to help her brother introduces her to Count Alexei Vronsky and sets in play a chain of events that will ripple out through families and the unforgiving society of wealthy Moscow and &lt;abbr&gt;St.&lt;/abbr&gt; Petersburg.&lt;/p&gt;
+			&lt;p&gt;Initially serialized over five years in &lt;i&gt;The Russian Messenger&lt;/i&gt;, &lt;i&gt;Anna Karenina&lt;/i&gt; was first published as a two-volume novel in 1878. It was &lt;a href="https://standardebooks.org/ebooks/leo-tolstoy"&gt;Leo Tolstoy’s&lt;/a&gt; second novel, following on from &lt;i&gt;War and Peace&lt;/i&gt;, and further cemented his role as the primary Russian author of his age. Tolstoy drew on his aristocratic upbringing to set the scene for the novel, and it is widely believed that he wrote his own experiences and struggles with religion (documented in &lt;a href="https://standardebooks.org/ebooks/leo-tolstoy/a-confession/aylmer-maude_louise-maude"&gt;&lt;i&gt;A Confession&lt;/i&gt;&lt;/a&gt;) into the central character of Konstantin Levin.&lt;/p&gt;
+			&lt;p&gt;This edition compiles into a single volume the 1901 English translation by Constance Garnett.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/1399</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/009814212</dc:source>
-		<meta property="se:production-notes">Any special notes about the production of this ebook for future editors/producers? Remove this element if not.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Anna_Karenina</meta>
