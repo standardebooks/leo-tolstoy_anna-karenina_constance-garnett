@@ -53,7 +53,7 @@
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/1399</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/009814212</dc:source>
-		<meta property="se:word-count">356730</meta>
+		<meta property="se:word-count">356731</meta>
 		<meta property="se:reading-ease.flesch">70.84</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Anna_Karenina</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/leo-tolstoy_anna-karenina_constance-garnett</meta>
