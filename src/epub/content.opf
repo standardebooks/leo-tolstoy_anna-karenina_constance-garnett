@@ -44,6 +44,8 @@
 		<meta property="authority" refines="#subject-5">LCSH</meta>
 		<meta property="term" refines="#subject-5">sh2008116767</meta>
 		<meta property="se:subject">Fiction</meta>
+		<meta id="collection-1" property="belongs-to-collection">Harvard Classics Shelf of Fiction</meta>
+		<meta property="collection-type" refines="#collection-1">set</meta>
 		<dc:description id="description">A socialite starts an affair with a cavalry officer, against a backdrop of wealthy family life in Imperialist Russia.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;Anna Karenina is certainly somewhat unhappy in her life, but presents a strong and vivacious character when called in to smooth over a major crack that’s appeared in her brother’s marriage. Unfortunately, the very visit designed to help her brother introduces her to Count Alexei Vronsky and sets in motion a chain of events that will ripple through families and the unforgiving society of wealthy Moscow and &lt;abbr&gt;St.&lt;/abbr&gt; Petersburg.&lt;/p&gt;
