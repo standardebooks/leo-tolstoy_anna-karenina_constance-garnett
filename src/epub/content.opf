@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/leo-tolstoy/anna-karenina/constance-garnett</dc:identifier>
 		<dc:date>2020-05-21T23:28:02Z</dc:date>
@@ -54,12 +54,12 @@
 		<meta id="collection-3" property="belongs-to-collection">The Guardian’s 100 Greatest Novels of All Time (2003)</meta>
 		<meta property="collection-type" refines="#collection-3">set</meta>
 		<meta property="group-position" refines="#collection-3">27</meta>
-		<dc:description id="description">A socialite starts an affair with a cavalry officer, against a backdrop of wealthy family life in Imperialist Russia.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>A socialite starts an affair with a cavalry officer, against a backdrop of wealthy family life in Imperialist Russia.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;Anna Karenina is certainly somewhat unhappy in her life, but presents a strong and vivacious character when called in to smooth over a major crack that’s appeared in her brother’s marriage. Unfortunately, the very visit designed to help her brother introduces her to Count Alexei Vronsky and sets in motion a chain of events that will ripple through families and the unforgiving society of wealthy Moscow and &lt;abbr&gt;St.&lt;/abbr&gt; Petersburg.&lt;/p&gt;
 			&lt;p&gt;Initially serialized over five years in &lt;i&gt;The Russian Messenger&lt;/i&gt;, &lt;i&gt;Anna Karenina&lt;/i&gt; was first published as a two-volume novel in 1878. It was &lt;a href="https://standardebooks.org/ebooks/leo-tolstoy"&gt;Leo Tolstoy’s&lt;/a&gt; second novel, coming after &lt;a href="https://standardebooks.org/ebooks/leo-tolstoy/war-and-peace/louise-maude_aylmer-maude"&gt;&lt;i&gt;War and Peace&lt;/i&gt;&lt;/a&gt; and further cementing his role as the primary Russian author of his age. Tolstoy drew on his aristocratic upbringing to set the scene for the novel, and it’s widely believed that he wrote his own experiences and struggles with religion (documented in &lt;a href="https://standardebooks.org/ebooks/leo-tolstoy/a-confession/aylmer-maude"&gt;&lt;i&gt;A Confession&lt;/i&gt;&lt;/a&gt;) into the central character of Konstantin Levin.&lt;/p&gt;
 			&lt;p&gt;This edition compiles into a single volume the 1901 English translation by Constance Garnett.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/1399</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/009814212</dc:source>
