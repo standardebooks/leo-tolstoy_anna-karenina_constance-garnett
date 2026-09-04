@@ -30,11 +30,11 @@
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.2 Level AA.</meta>
 		<dc:title id="title">Anna Karenina</dc:title>
 		<meta property="file-as" refines="#title">Anna Karenina</meta>
-		<dc:subject id="subject-1">Adultery -- Fiction</dc:subject>
+		<dc:subject id="subject-1">Adultery--Fiction</dc:subject>
 		<dc:subject id="subject-2">Didactic fiction</dc:subject>
 		<dc:subject id="subject-3">Love stories</dc:subject>
-		<dc:subject id="subject-4">Married women -- Fiction</dc:subject>
-		<dc:subject id="subject-5">Russia -- Fiction</dc:subject>
+		<dc:subject id="subject-4">Married women--Fiction</dc:subject>
+		<dc:subject id="subject-5">Russia--Fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh2007100578</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
