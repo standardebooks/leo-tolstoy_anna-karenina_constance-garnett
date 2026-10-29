@@ -71,13 +71,14 @@
 		<link href="https://github.com/standardebooks/leo-tolstoy_anna-karenina_constance-garnett" refines="#vcs-repository" rel="schema:codeRepository"/>
 		<dc:creator id="author">Leo Tolstoy</dc:creator>
 		<meta property="file-as" refines="#author">Tolstoy, Leo</meta>
-		<meta property="schema:alternateName" refines="#author">Count Lev Nikolayevich Tolstoy</meta>
+		<meta property="schema:alternateName" refines="#author">Lev Nikolayevich Tolstoy</meta>
 		<meta property="alternate-script" refines="#author">Лев Никола́евич Толсто́й</meta>
 		<link href="https://en.wikipedia.org/wiki/Leo_Tolstoy" refines="#author" rel="schema:sameAs"/>
 		<link href="https://id.loc.gov/authorities/names/n79068416.html" refines="#author" rel="schema:sameAs"/>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="translator">Constance Garnett</dc:contributor>
 		<meta property="file-as" refines="#translator">Garnett, Constance</meta>
+		<meta property="schema:alternateName" refines="#translator">Constance Clara Garnett</meta>
 		<link href="https://en.wikipedia.org/wiki/Constance_Garnett" refines="#translator" rel="schema:sameAs"/>
 		<link href="https://id.loc.gov/authorities/names/n50015174.html" refines="#translator" rel="schema:sameAs"/>
 		<meta property="role" refines="#translator" scheme="marc:relators">trl</meta>
@@ -95,6 +96,7 @@
 		<dc:contributor id="transcriber-3">David Widger</dc:contributor>
 		<meta property="file-as" refines="#transcriber-3">Widger, David</meta>
 		<link href="https://id.loc.gov/authorities/names/no2011017869.html" refines="#transcriber-3" rel="schema:sameAs"/>
+		<link href="https://www.gutenberg.net.au/widger/home.html" refines="#transcriber-3" rel="schema:url"/>
 		<meta property="role" refines="#transcriber-3" scheme="marc:relators">trc</meta>
 		<dc:contributor id="producer-1">Robin Whittleton</dc:contributor>
 		<meta property="file-as" refines="#producer-1">Whittleton, Robin</meta>
